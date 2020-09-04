@@ -22,7 +22,7 @@
     "fable-compiler": "^2.3.12",
     "fable-loader": "^2.1.2",
     "fable-utils": "^1.0.6",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
     "react-markdown": "^3.3.0",
